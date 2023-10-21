@@ -1,12 +1,26 @@
-Olá! Sou Thais Oliveira - Fullstack developer
+# Olá! Sou Thais Oliveira - Web Developer 👋
 
+![Minha foto de perfil](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-Atualmente trabalho com suporte em Middleware (IBM MQ), estou cursando Análise e Desenvolvimento de Sistemas e o bootcamp de desenvolvedor full stack da TripleTen.
-Estou no segundo mês do curso, e até o momento já adquiri um conhecimento aprofundado sobre HTML5 e CSS, suas propriedades e as principais bibliotecas e frameworks utilizadas no mercado. Todos os projetos que executei no bootcamp estão disponíveis nos repositórios.
-Possuo também certificação em Cloud (Azure e AWS), em Linux (Plataforma Alura), em IBM MQ (IBM Learning) e Scrum Master.
+Olá! Sou Thais Oliveira, uma desenvolvedora web com sede de aprendizado e inovação. Atualmente, estou trilhando minha jornada no mundo da tecnologia e continuamente aprimorando minhas habilidades. Aqui estão algumas informações sobre mim:
 
+## Sobre Mim
 
-Contato
+- 👩‍💻 Atualmente, estou cursando o **Bootcamp Triple Ten Front-End Development**, onde estou mergulhando de cabeça nas tecnologias web mais empolgantes, incluindo JavaScript, React.js, HTML, CSS, Babel, Webpack, NPM, GitHub, Git, Rest API, Cloud, MongoDB e Node.js.
 
-thaisantosoliveira@outlook.com
+- ☁️ Além do meu percurso no desenvolvimento front-end, estou expandindo ativamente minha experiência no domínio **Cloud**, possuindo certificações **Azure** e **AWS Practitioner**, e estou trabalhando duro para conquistar a certificação **AWS Solutions Architect**.
+
+- 🤖 Estou dedicada a aprimorar meu conhecimento em **automação**, aprimorando minhas habilidades de script com **Shell Script**, **Python** e **Ansible**.
+
+## Vamos Colaborar! 👩‍💻
+
+Estou sempre entusiasmada para me conectar com outros desenvolvedores, entusiastas de tecnologia e potenciais colaboradores em projetos empolgantes. Se você está interessado em trabalhar juntos ou trocar ideias, não hesite em entrar em contato!
+
+## Contato
+
+- 📧 Email: [thaisantosoliveira@outlook.com](mailto:thaisantosoliveira@outlook.com)
+
+Mal posso esperar para aprender, crescer e criar coisas incríveis juntos! Vamos construir o futuro da tecnologia. 🚀
+
+[LinkedIn](https://www.linkedin.com/in/thaisantosoliveira/) | [GitHub](https://github.com/olivetha)
 
