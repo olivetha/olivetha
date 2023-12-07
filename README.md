@@ -6,9 +6,11 @@ Olá! Sou Thais Oliveira, uma desenvolvedora web com sede de aprendizado e inova
 
 ## Sobre Mim
 
+- 👩‍💻 Sou analista de Middleware, especialista em IBM MQ e ACE.
+
 - 👩‍💻 Atualmente, estou cursando o **Bootcamp Triple Ten Front-End Development**, onde estou mergulhando de cabeça nas tecnologias web mais empolgantes, incluindo JavaScript, React.js, HTML, CSS, Babel, Webpack, NPM, GitHub, Git, Rest API, Cloud, MongoDB e Node.js.
 
-- ☁️ Além do meu percurso no desenvolvimento front-end, estou expandindo ativamente minha experiência no domínio **Cloud**, possuindo certificações **Azure** e **AWS Practitioner**, e estou trabalhando duro para conquistar a certificação **AWS Solutions Architect**.
+- ☁️ Além do meu percurso no desenvolvimento front-end, estou expandindo ativamente minha experiência no domínio **Cloud**, possuindo certificações **Azure**, **AWS Practitioner**, e **AWS Solutions Architect**.
 
 - 🤖 Estou dedicada a aprimorar meu conhecimento em **automação**, aprimorando minhas habilidades de script com **Shell Script**, **Python** e **Ansible**.
 
